@@ -40,10 +40,10 @@
 
   ```bash
   #Clone repositório
-  git clone https://github.com/renangabriel08/pokedex_mobile.git
+  git clone https://github.com/renangabriel08/food-delivery.git
 
   #Instalando dependencias
-  cd pokedex
+  cd food-delivery
   flutter pub get
 ```
   
